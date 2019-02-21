@@ -1,0 +1,15 @@
+Jon 101 Guide to Prevent GitHub Conflict (among other things):
+
+Rules (if broken, will make jon tilt, rotate and hit his head on the wall many times):
+1. Don't work on others allocated files. Work on your file only. If you do need to work on another person's (Person A) file, let the person know. Person A, make sure you not doing any important shit, and push and sync before doing anything.
+2. Sync everyday. Good habit! Or at least, fundamentally, pull and sync before you push your changes.
+3. Use only the /dist/demo-minimal-freelancer-portfolio-.... html file
+4. Before starting on work on any new page taken from the template, let Jon know, so Jon can setup the footer and nav bar for you.
+
+Not so serious stuff:
+1. Be happy when you do your work. Got any new ideas, let us know let's talk about it.
+2. Jon tends to be very particular, not exactly very good. But unlike Aloy, I am open to feedback. If I take it too far (i hope not), let me know. Anything can just talk to me ok? No pressure.
+3. Let's keep to deadlines -> finish up code 4 days before submission. Lock it in so we can do some code cleanup, bug catching and documentation. Relax, but not too much.
+4. Anything administrative, talk to xiu qi. He got direct contact to the prof
+
+okthxbye
