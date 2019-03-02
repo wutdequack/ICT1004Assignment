@@ -1,7 +1,13 @@
+/*Index Page*/
 .about-us-box-black{
     background-color: black;
 }
 
 .about-us-box-maroon{
     background-color: maroon;
+}
+
+/*Promotions Page*/
+#termsandconditions{
+    font-size:0.8em;
 }
