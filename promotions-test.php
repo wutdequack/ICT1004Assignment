@@ -29,7 +29,7 @@
 
     <!--Custom CSS-->
     <link href="assets/css/mhy-custom.css" rel="stylesheet">
-
+    
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i%7cWork+Sans:400,500,700%7cPT+Serif:400i,500i,700i" rel="stylesheet">
 
@@ -81,6 +81,7 @@
     
 
 
+
 <!--Code to insert external nav page-->
 <?php include('nav.inc.php'); ?>
 
@@ -118,10 +119,13 @@
         .nk-header-content-bottom-left
         .nk-header-content-bottom-right
 -->
-<div class="nk-header-title nk-header-title-md nk-header-title-parallax-content nk-header-content-center-center">
+<div class="nk-header-title nk-header-title-lg nk-header-title-parallax-content nk-header-content-center-center">
     
     <div class="bg-image bg-image-parallax">
-        <img src="assets\images\food\promo\cnypromo.jpg" alt="" class="jarallax-img">
+        <!--Credits to Mr Kathiravan Manoharan for the beautiful shot
+            http%3A%2F%2Fwww.kathiravan-manoharan.com%2F2017%2F07%2Fwanderers-diary-tangyuan-and-mei-heong.html&psig=AOvVaw1oiqVAri4UuNKHIm4So0zR&ust=1550822147084807-->
+        <img src="assets/images/index_img.jpg" alt="" class="jarallax-img">
+        <div class="bg-image-overlay" style="background-color: rgba(255, 255, 255, 0.2);"></div>
     </div>
     
     
@@ -131,74 +135,53 @@
                 
                 
                 
+                    
+                    <div class="nk-header-text text-white">
+                        
+<h1 class="nk-title display-4 text-white"><em>Promotions</em></h1>
+<div class="nk-subtitle-2 text-light-1">Moments taste sweeter with us</div>
+                    </div>
+                
                 
             </div>
         </div>
     </div>
-    
-    
+  
 </div>
 
 <!-- END: Header Title -->
 
+<!-- START: Promo -->
+<div style="padding-left:6%; padding-right:6%;">
+	<div class="nk-gap-4 mb-2"></div>
+		<h1 class="h2 fw-400 lh-50">Need a sweet deal this Chinese New Year?</h1>
+		<div class="row vertical-gap">
+            <div class="col-lg-8">
+				<h2></h2>
+				<p>Get 10% off your total bill!</p>
+				<p style="font-size:0.5em;">First 15 customers in each outlet only. <br/> 
+				This promo requires a minimum order of 1 cake and minimum 4 desserts to qualify 
+				for a 10% discount from the total bill. <br/> 
+				For orders above $60 (gross), customer will have to order and pay at outlet first. <br/> 
+				No phone orders for amount above $60 (gross). <br/>
+				Last collection date is 3rd Feburary 2019.</p>
+			</div>
+			<div>
+				<img src="assets\images\food\promo\cnypromo.jpg" alt="" class="jarallax-img" style="max-width:100%;"/>
+			</div>
+		</div>
+</div>
+
+<!-- END: Promo -->
 
 
-        
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 offset-lg-2">
-                <div class="nk-gap-4"></div>
-
-                <!-- START: Post -->
-                <div class="nk-blog-post nk-blog-post-single">
-                    <h1 class="display-4">Need a sweet deal this Chinese New Year?</h1>
-
-                    <div class="nk-post-meta">
-                        <div class="nk-post-date">February 10, 2019</div>
-                        <div class="nk-post-category"><a href="#">CNY</a></div>
-                    </div>
-
-                    <!-- START: Post Text -->
-                    <div class="nk-post-text">
-                        <p>Get 10% off your bill this Chinese New Year <a href="assets\images\food\promo\cnypromo.jpg">here</a></p>
-
-<h3>Terms and Conditions:</h3>
-
-<blockquote class="nk-blockquote-style-2" id="termsandconditions">
-    <p>
-        First 15 customers in each outlet only.<br/> 
-        This promo requires a minimum order of 1 cake and minimum 4 desserts to qualify 
-        for a 10% discount from the total bill.<br/> 
-        For orders above $60 (gross), customer will have to order and pay at outlet first.<br/> 
-        No phone orders for amount above $60 (gross).<br/>
-        Last collection date is 3rd Feburary 2019.
-    </p>
-</blockquote>
-
-                    </div>
-                    <!-- END: Post Text -->
-                </div>
-                <!-- END: Post -->
-
-                <div class="nk-gap-1"></div>
-            </div>
-        </div>
-    </div>
-
-    <!-- START: Pagination -->
-    <div class="nk-pagination nk-pagination-center">
-        <div class="container">
-            <a class="nk-pagination-prev" href="#"><span class="pe-7s-angle-left"></span> Previous Promotion</a>
-            <a class="nk-pagination-next" href="#">Next Promotion <span class="pe-7s-angle-right"></span> </a>
-        </div>
-    </div>
-    <!-- END: Pagination -->
-
-    </div>
+</div>
     <!-- END: Main Content -->
 
-<!--Code to insert external footer page-->  
-<?php include('footer.inc.php')?>
+    
+<!--Code to insert external footer page-->
+<?php include('footer.inc.php'); ?>
+
 
     
 
