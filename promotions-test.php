@@ -122,7 +122,6 @@
     
     <div class="bg-image bg-image-parallax">
         <img src="assets\images\food\promo\cnypromo.jpg" alt="" class="jarallax-img">
-        
     </div>
     
     
@@ -161,7 +160,7 @@
 
                     <!-- START: Post Text -->
                     <div class="nk-post-text">
-                        <p>Get 10% off your bill this Chinese New Year</p>
+                        <p>Get 10% off your bill this Chinese New Year <a href="assets\images\food\promo\cnypromo.jpg">here</a></p>
 
 <h3>Terms and Conditions:</h3>
 
