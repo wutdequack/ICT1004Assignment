@@ -15,17 +15,20 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Mei Heong Yuan Dessert - Our Menu</title>
+    <title>Mei Heong Yuan Dessert - Promotions</title>
 
-    <meta name="description" content="Our Menu">
+    <meta name="description" content="Promotions">
     <meta name="keywords" content="dessert, food, asian">
-    <meta name="author" content="Jonathan Lee">
+    <meta name="author" content="Dominic Keeley Gaian">
 
     <link rel="icon" type="image/png" href="assets/images/mhylogo.png">
 
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- START: Styles -->
+
+    <!--Custom CSS-->
+    <link href="assets/css/mhy-custom.css" rel="stylesheet">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i%7cWork+Sans:400,500,700%7cPT+Serif:400i,500i,700i" rel="stylesheet">
@@ -60,7 +63,13 @@
 
     <!-- jQuery -->
     <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
+    
+    
 </head>
+
+
+
+
 
 
 
@@ -70,36 +79,137 @@
 -->
 <body>
     
-    
-        <!--
-    START: Footer
 
+
+<!--Code to insert external nav page-->
+<?php include('nav.inc.php'); ?>
+
+    
+    
+    
+
+    
+
+    <!--
+        START: Main Content
+
+        Additional Classes:
+            .nk-main-dark
+    -->
+    <div class="nk-main">
+        
+<!-- START: Header Title -->
+<!--
     Additional Classes:
-        .nk-footer-transparent
+        .nk-header-title-sm
+        .nk-header-title-md
+        .nk-header-title-lg
+        .nk-header-title-xl
+        .nk-header-title-full
+        .nk-header-title-parallax
+        .nk-header-title-parallax-content
+        .nk-header-content-center-center
+        .nk-header-content-center-left
+        .nk-header-content-center-right
+        .nk-header-content-top-center
+        .nk-header-content-top-left
+        .nk-header-content-top-right
+        .nk-header-content-bottom-center
+        .nk-header-content-bottom-left
+        .nk-header-content-bottom-right
 -->
-<footer class="nk-footer">
+<div class="nk-header-title nk-header-title-md nk-header-title-parallax-content nk-header-content-center-center">
     
-
-    <div class="nk-footer-cont">
-        <div class="container text-center">
-            <div class="nk-social">
-                <ul>
-                    <li><a class="nk-social-twitter" href="https://twitter.com/"><span><span class="nk-social-front fa fa-twitter"></span><span class="nk-social-back fa fa-twitter"></span></span></a></li>
-                    <li><a class="nk-social-facebook" href="https://www.facebook.com/meiheongyuen.dessert"><span><span class="nk-social-front fa fa-facebook"></span><span class="nk-social-back fa fa-facebook"></span></span></a></li>
-                    <li><a class="nk-social-instagram" href="https://www.instagram.com/"><span><span class="nk-social-front fa fa-instagram"></span><span class="nk-social-back fa fa-instagram"></span></span></a></li>
-                </ul>
-            </div>
-
-            <div class="nk-footer-text">
-                <p>2019 &copy; Vons Food Pte Ltd</p>
+    <div class="bg-image bg-image-parallax">
+        <img src="assets\images\food\promo\cnypromo.jpg" alt="" class="jarallax-img">
+        
+    </div>
+    
+    
+    <div class="nk-header-content">
+        <div class="nk-header-content-inner">
+            <div class="container">
+                
+                
+                
+                
             </div>
         </div>
     </div>
-</footer>
-<!-- END: Footer -->
+    
+    
+</div>
+
+<!-- END: Header Title -->
+
+
+
+        
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2">
+                <div class="nk-gap-4"></div>
+
+                <!-- START: Post -->
+                <div class="nk-blog-post nk-blog-post-single">
+                    <h1 class="display-4">Need a sweet deal this Chinese New Year?</h1>
+
+                    <div class="nk-post-meta">
+                        <div class="nk-post-date">February 10, 2019</div>
+                        <div class="nk-post-category"><a href="#">CNY</a></div>
+                    </div>
+
+                    <!-- START: Post Text -->
+                    <div class="nk-post-text">
+                        <p>Get 10% off your bill this Chinese New Year</p>
+
+<h3>Terms and Conditions:</h3>
+
+<blockquote class="nk-blockquote-style-2" id="termsandconditions">
+    <p>
+        First 15 customers in each outlet only.<br/> 
+        This promo requires a minimum order of 1 cake and minimum 4 desserts to qualify 
+        for a 10% discount from the total bill.<br/> 
+        For orders above $60 (gross), customer will have to order and pay at outlet first.<br/> 
+        No phone orders for amount above $60 (gross).<br/>
+        Last collection date is 3rd Feburary 2019.
+    </p>
+</blockquote>
+
+                    </div>
+                    <!-- END: Post Text -->
+                </div>
+                <!-- END: Post -->
+
+                <div class="nk-gap-1"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- START: Pagination -->
+    <div class="nk-pagination nk-pagination-center">
+        <div class="container">
+            <a class="nk-pagination-prev" href="#"><span class="pe-7s-angle-left"></span> Previous Promotion</a>
+            <a class="nk-pagination-next" href="#">Next Promotion <span class="pe-7s-angle-right"></span> </a>
+        </div>
+    </div>
+    <!-- END: Pagination -->
+
+    </div>
+    <!-- END: Main Content -->
+
+<!--Code to insert external footer page-->  
+<?php include('footer.inc.php')?>
 
     
 
+    
+
+    
+
+    
+
+    
 <!-- START: Scripts -->
 
 <!-- Object Fit Polyfill -->
