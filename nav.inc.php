@@ -25,7 +25,7 @@
             <div class="container">
                 <div class="nk-nav-table">
                     
-                    <a href="index.html" class="nk-nav-logo">
+                    <a href="index.php" class="nk-nav-logo">
                         <img src="assets/images/logo.png" alt="" width="110" class="nk-nav-logo-img-dark">
                     </a>
                     
@@ -93,7 +93,7 @@
                 <div class="nk-nav-header">
                     
                     <div class="nk-nav-logo">
-                        <a href="index.html" class="nk-nav-logo">
+                        <a href="index.php" class="nk-nav-logo">
                             <img src="assets/images/logo.png" alt="" width="110" class="nk-nav-logo-img-dark">
                         </a>
                     </div>
@@ -112,28 +112,28 @@
                             <ul class="nk-nav">
                                 
         <li>
-            <a href="index.html">
+            <a href="index.php">
                 Home
                 
             </a>
         </li>
     
         <li>
-            <a href="our-menu.html">
+            <a href="our-menu.php">
                 Our Menu
                 
             </a>
         </li>
     
         <li>
-            <a href="feature.html">
+            <a href="feature.php">
                 Feature
                 
             </a>
         </li>
     
         <li>
-            <a href="promotions.html">
+            <a href="promotions.php">
                 Promotions
                 
             </a>
@@ -146,43 +146,43 @@
             </a><ul class="dropdown">
                     
         <li class="active">
-            <a href="location-chinatown.html">
+            <a href="location-chinatown.php">
                 Chinatown Outlet
                 
             </a>
         </li>
         <li>
-            <a href="location-chinatown-point.html">
+            <a href="location-chinatown-point.php">
                 Chinatown Point Outlet
                 
             </a>
         </li>
         <li>
-            <a href="location-clementi-mall.html">
+            <a href="location-clementi-mall.php">
                 Clementi Mall Outlet
                 
             </a>
         </li>
         <li>
-            <a href="location-velocity-novena.html">
+            <a href="location-velocity-novena.php">
                 Velocity@Novena Square Outlet
                 
             </a>
         </li>
         <li>
-            <a href="location-marina-square.html">
+            <a href="location-marina-square.php">
                 Marina Square Outlet
                 
             </a>
         </li>
         <li>
-            <a href="location-beach-road.html">
+            <a href="location-beach-road.php">
                 Beach Road Outlet
                 
             </a>
         </li>
         <li>
-            <a href="location-northpoint-city.html">
+            <a href="location-northpoint-city.php">
                 Northpoint City Yishun Outlet
                 
             </a>
@@ -191,7 +191,7 @@
         </li>
         
         <li>
-            <a href="franchise.html">
+            <a href="franchise.php">
                 Franchise
                 
             </a>

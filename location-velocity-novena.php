@@ -15,9 +15,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Mei Heong Yuan Desserts - Chinatown Point</title>
+    <title>Mei Heong Yuan Desserts - Velocity Novena</title>
 
-    <meta name="description" content="Location-Chinatown-Point">
+    <meta name="description" content="Location-Velocity-Novena">
     <meta name="keywords" content="dessert, food, asian">
     <meta name="author" content="Tan Chin How">
 
@@ -79,224 +79,9 @@
 
 
 
-<!--
-    START: Nav Header
+<!--Code to insert external nav page-->
+<?php include('nav.inc.php'); ?>
 
-    Additional Classes:
-        .nk-header-left
-        .nk-header-opaque
--->
-<header class="nk-header nk-header-opaque">
-
-    
-    <!--
-        START: Navbar
-
-        Additional Classes:
-            .nk-navbar-items-collapsed
-            .nk-navbar-lg
-            .nk-navbar-sticky
-            .nk-navbar-autohide
-            .nk-navbar-transparent
-            .nk-navbar-transparent-always
-            .nk-navbar-white-text-on-top
-            .nk-navbar-dark
-    -->
-    <nav class="nk-navbar nk-navbar-top">
-        <div class="container">
-            <div class="nk-nav-table">
-                
-                <a href="index.html" class="nk-nav-logo">
-                    <img src="assets/images/logo.png" alt="" width="110" class="nk-nav-logo-img-dark">
-                </a>
-                
-                
-                <ul class="nk-nav nk-nav-right d-none d-lg-block " data-nav-mobile="#nk-nav-mobile">
-                    
-                </ul>
-                
-                
-                <ul class="nk-nav nk-nav-right nk-nav-icons">
-                    
-                    
-                    
-                    <li class="single-icon">
-                        <a href="#" class="nk-navbar-full-toggle">
-                            <span class="nk-icon-burger">
-                                <span class="nk-t-1"></span>
-                                <span class="nk-t-2"></span>
-                                <span class="nk-t-3"></span>
-                            </span>
-                        </a>
-                    </li>
-                    
-                    
-                </ul>
-                
-
-                
-            </div>
-        </div>
-    </nav>
-    <!-- END: Navbar -->
-
-
-</header>
-<!-- END: Nav Header -->
-
-
-    
-
-
-<!--
-START: Fullscreen Navbar
-
-Additional Classes:
-    .nk-navbar-dark
-    .nk-navbar-align-center
-    .nk-navbar-align-right
-    .nk-navbar-items-effect-1
-    .nk-navbar-drop-effect-1
-    .nk-navbar-drop-effect-2
--->
-<nav class="nk-navbar nk-navbar-full nk-navbar-align-center nk-navbar-drop-effect-1" id="nk-full">
-
-    <div class="nk-navbar-bg">
-        <video width="100%" height="auto" controls autoplay loop>
-            <source src="assets/images/bg-video.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video> 
-    </div>
-
-<div class="nk-nav-table">
-    <div class="nk-nav-row">
-        <div class="container">
-            <div class="nk-nav-header">
-                
-                <div class="nk-nav-logo">
-                    <a href="index.html" class="nk-nav-logo">
-                        <img src="assets/images/logo.png" alt="" width="110" class="nk-nav-logo-img-dark">
-                    </a>
-                </div>
-                
-                <div class="nk-nav-close nk-navbar-full-toggle">
-                    <span class="nk-icon-close"></span>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="nk-nav-row-full nk-nav-row">
-        <div class="nano">
-            <div class="nano-content">
-                <div class="nk-nav-table">
-                    <div class="nk-nav-row nk-nav-row-full nk-nav-row-center">
-                        <ul class="nk-nav">
-                            
-    <li>
-        <a href="index.html">
-            Home
-            
-        </a>
-    </li>
-
-    <li>
-        <a href="our-menu.html">
-            Our Menu
-            
-        </a>
-    </li>
-
-    <li>
-        <a href="feature.html">
-            Feature
-            
-        </a>
-    </li>
-
-    <li>
-        <a href="promotions.html">
-            Promotions
-            
-        </a>
-    </li>
-
-    <li class="active nk-drop-item">
-        <a href="demo-minimal-split-portfolio.html">
-            Locations
-            
-        </a><ul class="dropdown">
-                
-    <li class="active">
-        <a href="location-chinatown.html">
-            Chinatown Outlet
-            
-        </a>
-    </li>
-    <li>
-        <a href="location-chinatown-point.html">
-            Chinatown Point Outlet
-            
-        </a>
-    </li>
-    <li>
-        <a href="location-clementi-mall.html">
-            Clementi Mall Outlet
-            
-        </a>
-    </li>
-    <li>
-        <a href="location-velocity-novena.html">
-            Velocity@Novena Square Outlet
-            
-        </a>
-    </li>
-    <li>
-        <a href="location-marina-square.html">
-            Marina Square Outlet
-            
-        </a>
-    </li>
-    <li>
-        <a href="location-beach-road.html">
-            Beach Road Outlet
-            
-        </a>
-    </li>
-    <li>
-        <a href="location-northpoint-city.html">
-            Northpoint City Yishun Outlet
-            
-        </a>
-    </li>
-            </ul>
-    </li>
-    
-    <li>
-        <a href="franchise.html">
-            Franchise
-            
-        </a>
-    </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="nk-nav-row">
-        <div class="container">
-            <div class="nk-social">
-                <ul>
-                    <li><a class="nk-social-twitter" href="https://twitter.com/"><span><span class="nk-social-front fa fa-twitter"></span><span class="nk-social-back fa fa-twitter"></span></span></a></li>
-                    <li><a class="nk-social-facebook" href="https://www.facebook.com/meiheongyuen.dessert"><span><span class="nk-social-front fa fa-facebook"></span><span class="nk-social-back fa fa-facebook"></span></span></a></li>
-                    <li><a class="nk-social-instagram" href="https://www.instagram.com/"><span><span class="nk-social-front fa fa-instagram"></span><span class="nk-social-back fa fa-instagram"></span></span></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-</nav>
-<!-- END: Fullscreen Navbar -->
     
     
     
@@ -316,7 +101,7 @@ Additional Classes:
         
 <div class="nk-header-title nk-header-title-md nk-header-title-parallax-content nk-header-content-center-center">
     <div class="bg-image bg-image-parallax">
-        <img src="assets/images/chinatownpoint.jpg" alt="" class="jarallax-img">
+        <img src="assets/images/velocity.jpg" alt="" class="jarallax-img">
         
     </div>
     
@@ -337,12 +122,12 @@ Additional Classes:
     <div class="nk-portfolio-single">
 
         <div class="nk-gap-4 mb-2"></div>
-        <h1 class="nk-portfolio-title display-4">Chinatown Point</h1>
-		<div class="row vertical-gap">
+        <h1 class="nk-portfolio-title display-4">Velocity@Novena Square Outlet</h1>
+        <div class="row vertical-gap">
             <div class="col-lg-8">
                 <div class="nk-portfolio-info">
                     <div class="nk-portfolio-text">
-                        <p>We knew our fans at Chinatown wanted more, so we opened one at the trendy Chinatown Point for you to get your fix of traditional desserts!</p>
+                        <p>We know how hard it is to be a parent, having to send your kids for enrichment, drop them off for hospital checks, etc. We can't change that, but you can change where you wanna hang out. Whilst waiting for your kids at the nearby tution centres or at TTSH, why not relax and come down to our Novena outlet. Parents deserve a treat too you know?</p>
                     </div>
                 </div>
             </div>
@@ -351,19 +136,19 @@ Additional Classes:
                     <tr>
                         <td><strong>Location:</strong></td>
                         <td>
-                            	#B2-32/33, Chinatown Point<br>
-								133 New Bridge Road<br>
-								Singapore 059413
+                            	238 Thomson Road<br>
+								Velocity@Novena Square #02-03<br>
+								Singapore 307683
                         </td>
                     </tr>
                     <tr>
                         <td><strong>Telephone:</strong></td>
-                        <td>+65 6538 3892</td>
+                        <td>+65 6255 4336</td>
                     </tr>
                     <tr>
                         <td><strong>Operating Hours:</strong></td>
                         <td>
-                            12:00 pm to 10:00 pm daily<br>
+                            11:15am to 9:30pm daily
                         </td>
                     </tr>
                 </table>
@@ -379,7 +164,7 @@ Additional Classes:
 <script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyBlQNaWM2_jxXJbRwL2ozXWw3cg-uuld8w&sensor=false"></script>
 <script>
     function initializeGmaps() {
-        var LatLng = {lat: 1.28501, lng: 103.84453};
+        var LatLng = {lat: 1.320234, lng: 103.843545};
         var mapCanvas = document.getElementById('google-map-contact');
         var mapOptions = {
             center      : LatLng,
@@ -409,8 +194,8 @@ Additional Classes:
 <!-- START: Pagination -->
 <div class="nk-pagination nk-pagination-center">
     <div class="container">
-        <a class="nk-pagination-prev" href="location-chinatown.html"><span class="pe-7s-angle-left"></span> Chinatown Outlet</a>
-        <a class="nk-pagination-next" href="location-clementi-mall.html"><span class="pe-7s-angle-right"></span> Clementi Mall Outlet</a>
+        <a class="nk-pagination-prev" href="location-clementi-mall.html"><span class="pe-7s-angle-left"></span> Clementi Mall Outlet</a>
+        <a class="nk-pagination-next" href="location-marina-square.html"><span class="pe-7s-angle-right"></span> Marina Square Outlet</a>
     </div>
 </div>
 <!-- END: Pagination -->
@@ -419,32 +204,9 @@ Additional Classes:
     <!-- END: Main Content -->
 
     
-        <!--
-    START: Footer
+<!--Code to insert external footer page-->
+<?php include('footer.inc.php'); ?>
 
-    Additional Classes:
-        .nk-footer-transparent
--->
-<footer class="nk-footer">
-    
-
-    <div class="nk-footer-cont">
-        <div class="container text-center">
-            <div class="nk-social">
-                <ul>
-                    <li><a class="nk-social-twitter" href="https://twitter.com/"><span><span class="nk-social-front fa fa-twitter"></span><span class="nk-social-back fa fa-twitter"></span></span></a></li>
-                    <li><a class="nk-social-facebook" href="https://www.facebook.com/meiheongyuen.dessert"><span><span class="nk-social-front fa fa-facebook"></span><span class="nk-social-back fa fa-facebook"></span></span></a></li>
-                    <li><a class="nk-social-instagram" href="https://www.instagram.com/"><span><span class="nk-social-front fa fa-instagram"></span><span class="nk-social-back fa fa-instagram"></span></span></a></li>
-                </ul>
-            </div>
-
-            <div class="nk-footer-text">
-                <p>2019 &copy; Vons Food Pte Ltd</p>
-            </div>
-        </div>
-    </div>
-</footer>
-<!-- END: Footer -->
 
     
 
