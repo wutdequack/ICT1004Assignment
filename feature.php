@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <!--
     Name: Skylith - Viral & Creative Multipurpose HTML Template
     Version: 1.0.3
@@ -288,9 +288,6 @@ Additional Classes:
 
     
 <!-- START: Scripts -->
-
-<!-- Custom Script -->
-<script src="assets/js/mhy-custom.js"></script>
 
 <!-- Object Fit Polyfill -->
 <script src="assets/vendor/object-fit-images/dist/ofi.min.js"></script>
