@@ -242,7 +242,7 @@
                     <div class="nk-gap-1 mnt-15"></div>
                     <p>Let's bring this acclaimed franchise higher and further together!</p>
                     <div class="nk-gap mnt-9"></div>
-                    <a href="franchise.html" class="nk-btn nk-btn-long nk-btn-color-dark-1">Contact Us</a>
+                    <a href="franchise.php" class="nk-btn nk-btn-long nk-btn-color-dark-1">Contact Us</a>
                 </div>
             </div>
         </div>
